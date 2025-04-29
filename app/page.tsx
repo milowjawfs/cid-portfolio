@@ -17,6 +17,8 @@ export default function Portfolio() {
           standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make
           a type specimen book.
         </p>
+        <img src="/cid-andres picture.jpg" width="300" height="200">
+        </img>
         <div className="mt-6 flex justify-center">
           <a href="/cid-andre-bactol-resume.pdf" download>
             <Button variant="outline">
